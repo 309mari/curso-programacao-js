@@ -30,7 +30,7 @@ console.log("O conteúdo da variável texto é: " + texto)
  *  EXERCÍCIO
  * =================================
  * 
- * Faça um programa javascript que exiba da tela as informações sobre você:
+ * Faça um programa javascript que exiba na tela as informações sobre você:
  * 
  * Meu nome é {seu nome}
  * Eu tenho {sua idade}
